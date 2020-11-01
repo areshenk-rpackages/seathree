@@ -1,0 +1,8 @@
+exportPattern("^[[:alpha:]]+")
+export("%DQ*%")
+importFrom(RSpincalc, Qnorm)
+importFrom(RSpincalc, Qnormalize)
+importFrom(RSpincalc, Qconj)
+importFrom(RSpincalc, Qlog)
+importFrom(RSpincalc, "%Q*%")
+importFrom(pracma, cross)

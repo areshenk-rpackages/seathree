@@ -1,2 +1,3 @@
 # seathree
-Dual quaternions in R
+
+R package for (unit) dual quaternion arithmetic.
